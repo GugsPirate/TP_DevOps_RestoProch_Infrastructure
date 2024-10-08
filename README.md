@@ -1,4 +1,4 @@
-# **TP DevOps - Infrastructure pour RestoProch**
+# **TP DevOps - Automatisation du Déploiement d’une Infrastructure Cloud
 
 ## **Description du projet**
 
