@@ -1,4 +1,4 @@
-# **TP DevOps - Automatisation du Déploiement d’une Infrastructure Cloud
+# TP DevOps - Automatisation du Déploiement d’une Infrastructure Cloud
 
 ## **Description du projet**
 
